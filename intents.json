@@ -1,0 +1,39 @@
+{"intents":  [
+    {"tag": "greetings", 
+    "patterns": ["hii","hello","hey","good day","what's up?" ,"Yo", "sup", "how is it going?"],
+    "responses": [ "Hello!","Hey","How can i help you?"," What can i do for you?","Yo! What's up"]},
+    
+    {"tag": "goodbye", 
+    "patterns": ["Bye","cao","see you later","nice talking to you","nice chat" ,"thank you bye", "i'm leaving", "see ya"],
+    "responses": [ "Sad to see you go :(","Hey","Wish we could talk for longer!"," Nice talking to you !","Bye","Love ya byee!","Goodbye :)"]},
+    
+    {"tag": "age", 
+    "patterns": ["how old are you?","what's your age?","are you old?","are you young?","age?","how old is trupthi?" ],
+    "responses": [ "I shouldn't actually tell you my age xD","How old do you think i am?","Do i look old lol","Yes, i'm pretty young","21","My owner Trupthi is 21 years old !"]},
+
+    {"tag": "name", 
+    "patterns": ["what can i call you?","do you have a name?","name?","what's your name?","do you have a nickname?" ],
+    "responses": [ "My name is Becca , but you can call me Bex ;) ","My name is Becca","I'm Bex","I'm Bex and my owner is Trupthi!"]},
+
+    {"tag": "shop", 
+    "patterns": ["I'd like to buy something","Buy","what does the shop sell","products","what do you reccomend" ,"what are you selling?", "is there anything i can buy?"],
+    "responses": [ "Sure, we sell a variety of things!","We have a range of the finest silk dresses! , I definetly recommend those","We sell apparel for both men and women!","We sell ethically sourced clothes that are very fashion forward","We sell clothes!"]},
+
+    {"tag": "hours", 
+    "patterns": ["what are the working hours?","when do you operate ?","hours of operation?","timings?"],
+    "responses": [ "We are open from 9am to 8pm from Monday to Friday and from 9am to 2pm on the weekends!"]},
+
+    {"tag": "prices", 
+    "patterns": ["what are theprices like?","price?","how much does it cost?","cost?"],
+    "responses": [ "We have very reasonable and competitive pricing on all our products! , you should definetly visit the store for inforation about particular items! "]},
+    
+    {"tag": "Payment", 
+    "patterns": ["Can i do cash on delivery?","is online payment ok?","can i pay through my credit card","is there an option for payment from upi?"],
+    "responses": [ "We only accept advace online payment for all the orders placed on the website, it can be via card , upi or net banking , but in store we accept payment through cash or card"]},
+
+    {"tag": "returns", 
+    "patterns": ["what is the returns policy like?","do you do returns?","can i return my purchase?"],
+    "responses": [ "We do offer upto 7 days returns for our online purchases, a proof of purchase needs to be provided the money will not be refunded but you will receive store credits in return"]}
+]}
+
+
